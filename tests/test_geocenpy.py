@@ -16,7 +16,7 @@ def test_version():
 
 def test_list_geoparams():
     geoparams_df = geocenpy.list_geoparams()
-    assert type(geoparams_df) == pandas.core.frame.DataFrame
+    assert type(geoparams_df) == pd.core.frame.DataFrame
 
 def test_get_geocen_df():
     df = geocenpy.get_geocen_df(quality = "20m", year = "2010", area_type= "county")
@@ -24,4 +24,4 @@ def test_get_geocen_df():
 
 def test_get_state_ids():
     geoID = geocenpy.get_state_ids(state_initials = "OR")
-    assert type(geoID) == pandas.core.frame.DataFrame
+    assert type(geoID) == pd.core.frame.DataFrame

@@ -2,7 +2,7 @@
 
 ![](https://github.com/elliotttrio/geocenpy/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/elliotttrio/geocenpy/branch/main/graph/badge.svg)](https://codecov.io/gh/elliotttrio/geocenpy) ![Release](https://github.com/elliotttrio/geocenpy/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/geocenpy/badge/?version=latest)](https://geocenpy.readthedocs.io/en/latest/?badge=latest)
 
-A python package that will make it easier for users to utilize Cartographic GeoJSON boundary files.
+This package helps users more easily visualize maps using Census Population Estimate API and the Census Cartographic GeoJSON boundary files. It transforms GeoJSON files into easy to work with GeoPandas.GeoDataFrame and plot choropleth maps. 
 
 ## Installation
 
@@ -16,11 +16,22 @@ $ pip install -i https://test.pypi.org/simple/ geocenpy
 
 ## Dependencies
 
-- TODO
+- pandas = "^1.1.5"
+- pyproj = "^3.0.0"
+- requests = "^2.25.1"
+- numpy = "^1.19.4"
+- shapely = "^1.7.1"
+- gdal = [Wheels for Windows User](https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal)
+- fiona = [Wheels for Windows User](https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona)
+- geopandas = "^0.8.1"
+- matplotlib = "^3.3.3"
+- descartes = "^1.1.0"
+- lxml = "^4.6.2"
+
 
 ## Usage
 
-- TODO
+- For a complete guide and example usages, please go to `./GeoCenPyWriteUp.ipynb`.
 
 ## Documentation
 
