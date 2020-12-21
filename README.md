@@ -10,10 +10,6 @@ This package helps users more easily visualize maps using Census Population Esti
 $ pip install -i https://test.pypi.org/simple/ geocenpy
 ```
 
-## Features
-
-- TODO
-
 ## Dependencies
 
 - pandas = "^1.1.5"
