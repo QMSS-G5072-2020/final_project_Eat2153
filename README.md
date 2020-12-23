@@ -13,17 +13,18 @@ $ pip install -i https://test.pypi.org/simple/ geocenpy
 
 ## Dependencies
 
-- pandas = "^1.1.5"
-- pyproj = "^3.0.0"
-- requests = "^2.25.1"
-- numpy = "^1.19.4"
-- shapely = "^1.7.1"
+- python = "^3.6"
+- pandas 
+- pyproj 
+- requests 
+- numpy 
+- shapely 
 - gdal = [Wheels for Windows User](https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal)
 - fiona = [Wheels for Windows User](https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona)
-- geopandas = "^0.8.1"
-- matplotlib = "^3.3.3"
-- descartes = "^1.1.0"
-- lxml = "^4.6.2"
+- geopandas 
+- matplotlib 
+- descartes 
+- lxml
 
 
 ## Usage
