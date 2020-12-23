@@ -8,7 +8,6 @@ This package helps users more easily visualize maps using Census Population Esti
 $ pip install -i https://test.pypi.org/simple/ geocenpy
 ```
 
-
 ## Dependencies
 
 - python = "^3.6"
