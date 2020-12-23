@@ -1,7 +1,5 @@
 # geocenpy 
 
-![](https://github.com/elliotttrio/geocenpy/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/elliotttrio/geocenpy/branch/main/graph/badge.svg)](https://codecov.io/gh/elliotttrio/geocenpy) ![Release](https://github.com/elliotttrio/geocenpy/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/geocenpy/badge/?version=latest)](https://geocenpy.readthedocs.io/en/latest/?badge=latest)
-
 This package helps users more easily visualize maps using Census Population Estimate API and the Census Cartographic GeoJSON boundary files. It transforms GeoJSON files into easy to work with GeoPandas.GeoDataFrame and plot choropleth maps. 
 
 ## Installation

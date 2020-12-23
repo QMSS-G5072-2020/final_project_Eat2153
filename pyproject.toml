@@ -13,8 +13,6 @@ requests = "*"
 matplotlib = "*"
 lxml = "*"
 descartes = "*"
-jupyter = "^1.0.0"
-ipykernel = "^5.4.2"
 
 
 [tool.poetry.dev-dependencies]
