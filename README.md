@@ -31,7 +31,7 @@ $ pip install -i https://test.pypi.org/simple/ geocenpy
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://geocenpy.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://final-project-eat2153.readthedocs.io/en/latest/
 
 ## Contributors
 
